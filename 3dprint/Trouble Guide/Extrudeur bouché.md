@@ -1,7 +1,7 @@
 « Le filament il ressort à chaque fois un peu n'importe ou »
 « j’ai tout essayé, je pige pas »
 
-https://github.com/openfab-lab/openfab/issues/209 
+(https://github.com/openfab-lab/openfab/issues/209)
 
 Le filament doit s'extruder de manière fluide, droite. Si le fil qui sort est dévié ou ne sort pas, c'est qu'une crasse bloque la buse. 
 Voilà ce qu’il faut d’abord essayer :
@@ -13,7 +13,7 @@ Voilà ce qu’il faut d’abord essayer :
 
 Si toutes ces méthodes ne fonctionnent pas il faut démonter la buse et enlever manuellement le bouchon.
 
-
+PHOTO
 
 Dévisser les vis du bas pour enlever le ventilateur en face
 Dévisser le ventilateur de gauche
